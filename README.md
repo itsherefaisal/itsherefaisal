@@ -19,6 +19,18 @@
 
 ---
 
+## 🏢 Currently Working At
+
+<p align="center">
+  <a href="https://zebicvisions.com" target="_blank">
+    <img src="https://img.shields.io/badge/Zebic_Visions-zebicvisions.com-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+> 🎬 Check out **[Zebic Visions](https://zebicvisions.com)** — A growing creative agency delivering **7,000+ projects** across video editing and web development. From concept to production, we ship things that matter.
+
+---
+
 ## 💻 Tech Stack
 
 **Frontend**
