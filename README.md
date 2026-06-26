@@ -116,22 +116,22 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsherefaisal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsherefaisal&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/itsherefaisal/itsherefaisal/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsherefaisal&theme=tokyo-night&hide_border=true" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itsherefaisal&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
